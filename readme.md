@@ -1,4 +1,4 @@
-## Iformation
+## Information
 This project is based on keyboard and gesture integration process,
 There is a basic car game and you can control the car with you finger.
 
