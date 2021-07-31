@@ -8,7 +8,7 @@ Python libraries that are required by the project are given in the
 
 ## How to install ?
 1. Just Clone This repository.
-    `git clone https://github.com/AslanDevbrat/gesture_VidGame.git`
+    `git clone https://github.com/ratneshpawar1/Gesture-conrtolled-car-game`
    
 2. Open the Folder in any IDE (I use VS code)
 
